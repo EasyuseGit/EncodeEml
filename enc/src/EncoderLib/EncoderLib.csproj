@@ -40,8 +40,9 @@
     <Reference Include="ICSharpCode.SharpZipLib">
       <HintPath>..\ref\ICSharpCode\ICSharpCode.SharpZipLib.dll</HintPath>
     </Reference>
-    <Reference Include="itextsharp">
-      <HintPath>..\ref\itextsharp.dll</HintPath>
+    <Reference Include="itextsharp, Version=5.0.5.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ref\itextsharp\itextsharp.dll</HintPath>
     </Reference>
     <Reference Include="LumiSoft.Net">
       <HintPath>..\ref\LumiSoft\LumiSoft.Net.dll</HintPath>
