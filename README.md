@@ -15,6 +15,12 @@ https://github.com/itext/itextsharp/releases
 
 
 # 安裝方式
+建議環境:
+windows 2016 standard
+.net framework 4.7.2
+windows訊息佇列
+
+安裝指令:
 執行 C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe EncoderWindowsService.exe , 
 並啟動服務即可 
 
